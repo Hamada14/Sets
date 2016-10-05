@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1475632519 source:c:\users\asus pc\google drive\college files\programming 1\section 7\discreteset\main.cpp
+	<iostream>
+	"Set.h"
+
+1475453226 source:c:\users\asus pc\google drive\college files\programming 1\section 7\discreteset\set.cpp
+
+1475631933 c:\users\asus pc\google drive\college files\programming 1\section 7\discreteset\include\set.h
+	<vector>
+	<string>
+
+1475632396 source:c:\users\asus pc\google drive\college files\programming 1\section 7\discreteset\src\set.cpp
+	"Set.h"
+	<iostream>
+
